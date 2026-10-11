@@ -1,5 +1,3 @@
-# Tugas Kelompok Rekayasa Perangkat Lunak (RPL)
-
 ## 1. System Boundary dan External Entities
 
 ### System Boundary
